@@ -7,7 +7,7 @@
   
   .about {
     width: 100%;
-    height: calc(110vh - 100px);
+    height: calc(115vh - 100px);
     display: flex;
     flex-direction: column;
     justify-content: center;
