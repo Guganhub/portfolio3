@@ -32,7 +32,7 @@ const Home = () => {
           <p><EmailIcon/>&nbsp;guganesh12345@gmail.com</p>
         </div>
         <div className='resume'>
-          <p><PictureAsPdfIcon/>&nbsp;<a href='https://drive.google.com/file/d/1zchkeW_QZNK44irYVLigFRW1qTcdsf1S/view?usp=sharing' target='_blank' rel='noreferrer'>Resume</a></p>
+          <p><PictureAsPdfIcon/>&nbsp;<a href='https://drive.google.com/file/d/1GLoXiA5e-BMZ4FaHdaVPAB2a2BHm-zvf/view?usp=sharing' target='_blank' rel='noreferrer'>Resume</a></p>
           
         </div>
         <div className='soc'>

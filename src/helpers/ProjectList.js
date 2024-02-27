@@ -13,15 +13,15 @@ export const ProjectList =[
         TechUsed : 'React, nodeJS, expressJS, mongodb',
         Description :'The project is based on the inventory management where each user can able to store and manage their products added in the inventory',
 
-        GithubUrl : 'https://github.com/Guganhub/QuickNotePro-frontend',
-        Url : 'https://ginventory-app.vercel.app'
+        GithubUrl : 'https://github.com/Guganhub/inventory-frontend',
+        Url : 'https://gtinventory-app.vercel.app'
     },
     {
         name : 'QuickNotePro',
         image : quicknote,
         TechUsed : 'React, nodeJS, expressJS, mongodb',
         Description:'A notes app where user can create edit update delete notes',
-        GithubUrl : 'https://github.com/Guganhub/Backend',
+        GithubUrl : 'https://github.com/Guganhub/QuickNotePro-frontend',
         Url : 'https://quick-note-pro-frontend.vercel.app'
     },
     {
